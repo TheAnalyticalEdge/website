@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "The Analytical Edge"
+  favicon: "tae_fav.png"
+  navbar:
+    logo: "tae-logo.png"
+    logo-alt: "Logo for The Analytical Edge"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: team.qmd
+        text: Team
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
