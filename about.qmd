@@ -1,10 +1,6 @@
----
-title: ""
----
+We are a network of [statisticians](https://www.theanalyticaledge.com/our-team.html#joanne), [ecologists](https://www.theanalyticaledge.com/our-team.html#collaborators), and [biosecurity experts](https://www.theanalyticaledge.com/our-team.html#collaborators), whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
 
-We are a network of statisticians, ecologists, and biosecurity experts, whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
-
-Developing stage-structured population models for an endangered plant species
+Analysing the occupancy of supplemental nest structures by Key Largo woodrats using infra-red cameras
 
 Our services include:
 

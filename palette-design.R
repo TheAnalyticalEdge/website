@@ -61,5 +61,12 @@ edge_pals <- c(new_edge_pal,
 swatchplot(new_edge_pal,
            border = "transparent")
 
+tae_bw_pal <- desaturate(new_edge_pal)
+tae_col_pal <- new_edge_pal
+
+tae_col_pal
+names(tae_bw_pal) <- names(tae_col_pal)
+tae_bw_pal
+
 swatchplot(desaturate(new_edge_pal),
            border = "transparent")

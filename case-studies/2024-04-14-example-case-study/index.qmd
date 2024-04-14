@@ -1,0 +1,17 @@
+---
+title: "Example Case Study"
+description: "Some example case study description. This appears under the title, and is also on the listings page."
+author:
+  - name: Joanne Potts
+    url: https://www.theanalyticaledge.com
+    # orcid: 0000-XXXX-XXXX-XXXX
+    affiliation: The Analytical Edge
+date: 04-14-2023
+categories: [R, ecology] # self-defined categories
+# citation: 
+  # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
+image: example-image.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Here's some example text for this case study

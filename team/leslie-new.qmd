@@ -1,0 +1,10 @@
+
+# Leslie New
+
+![](images/clipboard-1953961473.png)
+
+Dr Leslie New graduated from Cornell University (BS in Natural Resources, 2003) and the University of St Andrews (PhD in Statistics and Biology, 2010). She remained at St Andrews as a postdoctoral fellow, before continuing her research with the US Marine Mammal Commission and the US Geological Survey at Patuxent Wildlife Research Center.
+
+Currently, Leslie is an Assistant Professor in the Department of Mathematics and Statistics and Washington State University, Vancouver, where she focuses on statistical ecology. Her research interests include the practical application of hierarchical Bayesian state-space models, understanding and mitigating human-wildlife conflict, and quantitatively assessing the population consequences of disturbance. Dr. New is particularly interested in the quantification, incorporation and propagation of uncertainty in statistical models used for management and conservation decisions.
+
+For more information about Leslie, see her [Google scholar profile](https://scholar.google.com.au/citations?user=P9JQOi8AAAAJ&hl=en&oi=ao), and read more about her research at [Washington State University](https://labs.wsu.edu/leslie-new/).

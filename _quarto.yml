@@ -2,18 +2,28 @@ project:
   type: website
 
 website:
-  title: "The Analytical Edge"
-  favicon: "tae_fav.png"
+  title: ""
+  favicon: "logos/tae-logo-colour-uniform.png"
   navbar:
-    logo: "tae-logo.png"
+    logo: "logos/tae-logo-colour-uniform.png"
     logo-alt: "Logo for The Analytical Edge"
     right:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: team.qmd
-        text: Team
+      - text: "About"
+        href: about.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "What we do"
+        href: what-we-do.qmd
+      - text: "Case Studies"
+        href: case-studies.qmd
+
+  page-footer:
+      left: |
+        The Analytical Edge Pty Ltd • P O Box 47 Blackmans Bay Tasmania 7052
+      right: |
+        info@theanalyticaledge.com • Ph: +61 424 664 954
+      background: "#00aeefff"
+      foreground: "#FFFFFF"
 
 format:
   html:

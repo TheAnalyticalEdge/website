@@ -1,1 +1,6 @@
 /* css styles */
+.navbar-logo {
+    max-height: 48px;
+    width: auto;
+    padding-right: 4px;
+}

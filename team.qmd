@@ -1,77 +1,26 @@
 ---
-title: ""
+title: "Team"
+listing:
+  contents: team
+  type: grid 
+  sort: false
 ---
 
-## Joanne Potts
+## Company Director, Consultant Statistician
 
-![](images/clipboard-783091942.png)
+::: box
+<img src="../images/joanne-potts.png" alt="Joanne"/>
+:::
 
-Company Director, Consultant Statistician
+## Collaborators
 
-Joanne is the Director of The Analytical Edge Statistical Consulting. She has worked in Australia, the United Kingdom and the USA in both academic and government settings as a statistical consultant.
-
-After completing her undergraduate degree at The [University of Melbourne in Applied Statistics](http://www.ms.unimelb.edu.au/) and [Environmental Science](http://www.sciencedirect.com/science/article/pii/S030438000600247X), she worked as a consultant statistician at the [Arthur Rylah Institute for Ecological Research](http://www.dse.vic.gov.au/arthur-rylah-institute) within the Victorian State Government. Here, she completed research in a variety of ecological applications, such as assessing the [impact of salinization](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2427.2006.01672.x/abstract), and [habitat fragmentation](http://www.publish.csiro.au/nid/144/display/citation/paper/WR07010.htm).
-
-In 2006, Joanne left the Victorian state government and moved to the [Centre for Research into Ecological and Environmental Modelling](http://creem2.st-andrews.ac.uk/) at University of St Andrews in Scotland, to undertake her PhD studies. She was supervised by [Prof. Stephen Buckland](http://www.creem.st-and.ac.uk/stb/index.html), [Dr. Len Thomas](http://www.creem.st-and.ac.uk/len/), and Dr Anne Savage, and developed methods for incorporating animal movement data into capture-recapture analysis for [abundance estimation for small mammals](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2012.00205.x/abstract).
-
-Her post-doctoral research was undertaken at the Centre for Environmental Sciences, the University of Southampton, England. Her project, titled “Understanding the status, autecology and taxonomy of UK Biodiversity Action Plan Species”, was funded by [DEFRA](http://www.defra.gov.uk/ "Department for Environment, Food and Rural Affairs"), UK.
-
-More recently, Joanne’s work has focused on risk analysis within biosecurity and engineering settings, working as a Research Fellow at the [Australian Centre of Excellence for Risk Analysis](http://www.acera.unimelb.edu.au/), the University of Melbourne. For example, she developed [risk-based trace priorities for disease outbreak](http://www.acera.unimelb.edu.au/materials/endorsed/1006B_OID2_Report.pdf) \[PDF\], funded by [DAFF](http://www.daff.gov.au/ "Department of Agriculture, Fisheries and Forestry"); and assessed statistical methods (namely, maximum likelihood estimation and median-rank regression) for dealing with heavily censored data, funded by [DSTO](http://www.dsto.defence.gov.au/ "Defence Science and Technology Organisation").
-
-Please see Joanne's [Google Scholar Profile](https://scholar.google.com.au/citations?user=XnnIFvAAAAAJ&hl=en) for update record of her peer reviewed, scientific publications. She is available for contact at [info\@theanalyticaledge.com](mailto:info@theanalyticaledge.com) for further information.
-
-## Mike Cove
-
-![](images/clipboard-1363128193.png)
-
-Mike Cove is an applied conservation ecologist and mammalogist, with a strong quantitative background, having completed his PhD studies at NCSU utilising occupancy modelling and spatial capture-recapture techniques to study small mammals.
-
-His research uses traditional methods and museum collections, as well as non-invasive survey techniques and statistical modelling procedures, to study population and community ecology.
-
-Mike's research interests are mainly focused on the conservation of mammal communities, but also mesopredator release and trophic cascades, the urban/suburban wildlife interface, species invasions, disease ecology and animal microbiomes, and human dimensions of conservation and sustainable development in the tropics.
-
-For an up-to-date list of Mike's publications, please see his [Google Scholar profile](https://scholar.google.com/citations?user=jk_H8voAAAAJ&hl=en) and also check out his website [CoveWildlife.com](https://covewildlife.com/) to learn more about his many ongoing research projects.
-
-## Jim Lovell
-
-![](images/clipboard-1191005553.png)
-
-Jim has a PhD in physics from the University of Tasmania and has worked primarily in the fields of radio astronomy and geodesy, with roles in research, operations and project management.
-
-He has extensive experience in managing large survey-oriented research programs from planning through to observations, data management, analysis and publication. Jim can provide assistance in developing techniques and strategies for efficient gathering of experimental data and software solutions for data organisation, management, analysis and visualisation.
-
-For the 10 years following the completion of his PhD, Jim worked as a professional astronomer first in Japan at the Institute of Space and Astronautical Science on the [VLBI Space Observatory Programme](https://darts.isas.jaxa.jp/astro/halca) mission (which involved the first orbiting radio telescope), then in Canberra conducting research in astronomy and supporting observations at [NASA's Deep Space Station at Tidbinbilla for CSIRO](https://www.atnf.csiro.au/observers/tidbinbilla/index.html).
-
-From 2007 until 2017 he was Project Manager of the [AuScope VLBI project](http://auscope.phys.utas.edu.au/) at the University of Tasmania. This involved the construction and operation of a \$7 million array of three radio telescopes in Australia (Hobart (Tas), Katherine (NT) and Yarragadee (WA)) designed specifically for geodesy.
-
-Jim is currently working in several consultancy-based roles with a growing emphasis on applying his skills and experience obtained in astrophysics to environmental applications. This has included management of data for the Where Where Wedgie citizen science program, operated by [NatureTrackers](https://naturetrackers.com.au/), aimed at monitoring the population of the threatened Tasmanian wedge-tailed eagle. He has also been working on [adapting radio astronomy techniques to passive acoustic wildlife monitoring](http://jimlovellphoto.com/astroecoacoustics). This has involved building audio data recorders and post-processing the data to obtain low noise spectrograms and signal direction measurements for species localisation and identification.
-
-For more information, see [Jim's resume](https://www.theanalyticaledge.com/info/JimLovell_Resume_AE.pdf) (PDF).
-
-## Hugh McGregor
-
-![](images/clipboard-2257415114.png)
-
-Dr Hugh McGregor is a wildlife researcher, specialising in the ecology and impacts of feral cats.
-
-He has designed and implemented numerous applied field experiments, including radio-collaring over 100 cats all over Australia.
-
-Hugh did his PhD on how feral cats interact with fire in the Kimberley region of Western Australia, with the University of Tasmania and Australian Wildlife Conservancy. He is currently working in remote South Australia as a post-doctoral researcher under the National Environmental Science Program, Threatened Species Hub, along with collaborating and consulting with numerous conservation organisations.
-
-Joanne Potts and Hugh have been working together for over eight years.
-
-# Leslie New
-
-![](images/clipboard-1953961473.png)
-
-Dr Leslie New graduated from Cornell University (BS in Natural Resources, 2003) and the University of St Andrews (PhD in Statistics and Biology, 2010). She remained at St Andrews as a postdoctoral fellow, before continuing her research with the US Marine Mammal Commission and the US Geological Survey at Patuxent Wildlife Research Center. 
-
-Currently, Leslie is an Assistant Professor in the Department of Mathematics and Statistics and Washington State University, Vancouver, where she focuses on statistical ecology. Her research interests include the practical application of hierarchical Bayesian state-space models, understanding and mitigating human-wildlife conflict, and quantitatively assessing the population consequences of disturbance. Dr. New is particularly interested in the quantification, incorporation and propagation of uncertainty in statistical models used for management and conservation decisions.
-
-For more information about Leslie, see her [Google scholar profile](https://scholar.google.com.au/citations?user=P9JQOi8AAAAJ&hl=en&oi=ao), and read more about her research at [Washington State University](https://labs.wsu.edu/leslie-new/).
-
-## Roland Proud
-
-![](images/clipboard-1617486599.png)
-
-Roland Proud is Company Director of [Cupar Analytics](https://cuparanalytics.com/).
+::: boxes
+```{r, results='asis'}
+# for (staff_member in staff_list) {
+#     if (staff_member$staff_type == "researcher" | staff_member$staff_type == "research-support") {
+#         fileext <- flist[grepl(staff_member$id, flist)] %>% file_ext()
+#         condensr::generate_markdown_for_member(staff_member, extension = fileext)
+#     }
+# }
+```
+:::
