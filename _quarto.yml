@@ -8,6 +8,8 @@ website:
     logo: "logos/tae_logo.png"
     logo-alt: "Logo for The Analytical Edge"
     right:
+      - text: "Home"
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Team"

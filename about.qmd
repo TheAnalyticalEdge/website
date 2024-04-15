@@ -1,6 +1,12 @@
-We are a network of [statisticians](https://www.theanalyticaledge.com/our-team.html#joanne), [ecologists](https://www.theanalyticaledge.com/our-team.html#collaborators), and [biosecurity experts](https://www.theanalyticaledge.com/our-team.html#collaborators), whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
-
-Analysing the occupancy of supplemental nest structures by Key Largo woodrats using infra-red cameras
+---
+format:
+  html:
+    toc: false
+title: "About"
+title-block-banner: images/paper-alpine-flower.jpg
+description: "We are a network of statisticians, ecologists, and biosecurity experts, whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals."
+title-block-banner-color: "#FFFFFF"
+---
 
 Our services include:
 
@@ -18,4 +24,6 @@ Our services include:
 
 -   Delivery of technical workshops on statistical topics
 
-Please refer to [How we can help you](https://www.theanalyticaledge.com/how-we-can-help.html) for further information.
+Please refer to [What We Do](what-we-do.html) for further information.
+
+<!-- Analysing the occupancy of supplemental nest structures by Key Largo woodrats using infra-red cameras -->

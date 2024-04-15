@@ -2,8 +2,7 @@
 title: "The Analytical Edge"
 format:
     html:
-        page-layout: full
-        toc: false
+      toc: false
 title-block-banner: images/paper-alpine-flower.jpg
 description: We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
 title-block-banner-color: "#FFFFFF"
@@ -11,36 +10,60 @@ title-block-banner-color: "#FFFFFF"
 
 # Core Values
 
-Our work is underpinned by our **core values** of:
+<!-- Our work is underpinned by our **core values** of: -->
 
--   Sound methodology that is meaningful for your decision-making
+::: grid
+::: g-col-6
+Sound methodology that is meaningful for your decision-making
 
--   Quality research
+Quality research
+:::
 
--   Client-focused communication
+::: g-col-6
+Client-focused communication
 
--   Working across multi-disciplinary fields
+Working across multi-disciplinary fields
 
--   Protecting sensitive information
+Protecting sensitive information
+:::
+:::
 
-Our business includes:
+# Audience
 
--   Academia,
+<!-- Our business includes: -->
 
--   Private industry, and
+::: grid
+::: g-col-3
+Academia
+:::
 
--   Government agencies
+::: g-col-3
+Private industry
+:::
+
+::: g-col-3
+Government agencies
+:::
+:::
 
 # Our Clients
 
--   Department of Natural Resources and Environment Tasmania
+::: grid
+::: g-col-3
+Department of Natural Resources and Environment Tasmania
 
--   University of Tasmania
+University of Tasmania
+:::
 
--   Institute for Marine and Antarctic Science
+::: g-col-3
+Institute for Marine and Antarctic Science
 
--   Australian Wildlife Conservatory
+Australian Wildlife Conservatory
+:::
 
--   Biosecurity Solutions Australia
+::: g-col-3
+Biosecurity Solutions Australia
 
--   Save the Tasmanian Devil Program
+Save the Tasmanian Devil Program
+:::
+:::

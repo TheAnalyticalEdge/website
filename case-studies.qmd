@@ -1,8 +1,14 @@
 ---
 title: "Case Studies"
+title-block-banner: images/paper-alpine-flower.jpg
+description: We believe in making science better. Part of that is sharing what we do with the wider public. 
+title-block-banner-color: "#FFFFFF"
 listing:
   contents: case-studies 
   type: grid 
   sort: "date desc" # can also sort on more than one field
   categories: true # allows you to sort posts by assigned categories
+format:
+  html:
+    toc: false
 ---

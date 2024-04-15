@@ -5,4 +5,8 @@ listing:
   type: grid 
   sort:
       - date
+  fields: [image, title]
+title-block-banner: images/paper-alpine-flower.jpg
+description: We work with a diverse range of professional consultants in ecology, statistics, and data science.
+title-block-banner-color: "#FFFFFF"
 ---

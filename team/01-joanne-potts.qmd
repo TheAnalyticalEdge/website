@@ -5,8 +5,7 @@ date: "2024-01-01"
 format:
   html:
     page-layout: full
-    link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/www\.theanalyticaledge\.com\/custom'
+    toc: false
 about:
     id: about-block
     template: trestles
