@@ -5,17 +5,21 @@ format:
     toc: false
 ---
 
-<div class="bg-light p-5 rounded-lg m-3">
-  <h1 class="display-4">Fields of investigation</h1>
-  <p class="lead">Some example text for what we can do to help</p>
+::: {.bg-light .p-5 .rounded-lg .m-3}
+
+ <h1 class="display-4">Fields of investigation</h1>
+
+ <p class="lead">Some example text for what we can do to help</p>
+
 -   Environmental
 -   Engineering
 -   Survival analysis
 -   Underwater acoustics
 -   Social surveys
-</div>
 
-<div class="bg-light p-5 rounded-lg m-3">
+:::
+
+::: {.bg-light .p-5 .rounded-lg .m-3}
   <h1 class="display-4">Statistical skills</h1>
   <p class="lead">Some example text for what we can do to help</p>
 -   Laboratory and field experimental design
@@ -31,10 +35,9 @@ format:
 -   Distance sampling
 -   Survival analysis
 -   Heavily censored data
+:::
 
-</div>
-
-<div class="bg-light p-5 rounded-lg m-3">
+::: {.bg-light .p-5 .rounded-lg .m-3}
   <h1 class="display-4">Software</h1>
   <p class="lead">Some example text for what we can do to help</p>
 -   R
@@ -48,15 +51,15 @@ format:
 -   RAMAS Metapop
 -   Echoview
 -   MaxEnt
-</div>
+:::
 
 
-<div class="bg-light p-5 rounded-lg m-3">
+::: {.bg-light .p-5 .rounded-lg .m-3}
   <h1 class="display-4">Teaching</h1>
   <p class="lead">Some example text for what we can do to help</p>
 -   Taught workshops on species distribution modelling using MaxEnt, capture-recapture modelling using MARK, distance sampling with program Distance and Statistical Modelling in R and Genstat
 -   Assisted with the teaching of under-graduate and Masters level statistics courses
-</div>
+:::
 
 
 :::: {.bg-light .p-5 .rounded-lg .m-3}
@@ -65,6 +68,7 @@ format:
 
 ::: {.g-col-4}
 ![](https://www.theanalyticaledge.com/images/slides/woodrat.jpg){alt=""}
+
 The Key Largo woodrat was used as a case study species for the development of trapping point transects
 :::
 
