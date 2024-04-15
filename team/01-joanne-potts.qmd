@@ -1,6 +1,7 @@
 ---
 title: "Joanne Potts"
 image: "../images/joanne-potts.png"
+date: "2024-01-01"
 format:
   html:
     page-layout: full

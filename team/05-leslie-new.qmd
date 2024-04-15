@@ -1,7 +1,21 @@
-
-# Leslie New
-
-![](images/clipboard-1953961473.png)
+---
+title: "Leslie New"
+image: "../images/leslie-new.png"
+date: "2024-01-05"
+format:
+  html:
+    page-layout: full
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.theanalyticaledge\.com\/custom'
+about:
+    id: about-block
+    template: trestles
+    image-shape: round
+    links:
+      - icon: envelope
+        text: "Email"
+        href: "mailto:leslie@theanalyticaledge.com"
+---
 
 Dr Leslie New graduated from Cornell University (BS in Natural Resources, 2003) and the University of St Andrews (PhD in Statistics and Biology, 2010). She remained at St Andrews as a postdoctoral fellow, before continuing her research with the US Marine Mammal Commission and the US Geological Survey at Patuxent Wildlife Research Center.
 

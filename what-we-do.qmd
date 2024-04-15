@@ -1,77 +1,87 @@
-# [How we can help you]{.smallcaps}
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+---
 
-![](https://www.theanalyticaledge.com/images/slides/woodrat.jpg){alt=""} The Key Largo woodrat was used as a case study species for the development of trapping point transects
-
-![](https://www.theanalyticaledge.com/images/slides/aircraft.jpg){alt=""} Joanne investigated the difference between different statistical estimation techniques for heavily censored data sets, using aircraft component failure as the motivating example
-
-![](https://www.theanalyticaledge.com/images/slides/citrus_canker.jpg){alt=""} Joanne developed risk-based trace priorities for an outbreak of citrus canker in Queensland
-
-## [Fields of investigation]{.smallcaps}
-
+<div class="bg-light p-5 rounded-lg m-3">
+  <h1 class="display-4">Fields of investigation</h1>
+  <p class="lead">Some example text for what we can do to help</p>
 -   Environmental
-
 -   Engineering
-
 -   Survival analysis
-
 -   Underwater acoustics
-
 -   Social surveys
+</div>
 
-## [Statistical skills]{.smallcaps}
-
+<div class="bg-light p-5 rounded-lg m-3">
+  <h1 class="display-4">Statistical skills</h1>
+  <p class="lead">Some example text for what we can do to help</p>
 -   Laboratory and field experimental design
-
 -   Establishing long-term monitoring programs to estimate species abundance
-
 -   Analysing longitudinal data
-
 -   Power analyses
-
 -   Generalised linear modelling
-
 -   Generalised linear mixed modelling
-
 -   Generalised additive modelling
-
 -   Capture-recapture statistics
-
 -   Occupancy modelling
-
 -   Spatially explicit capture-recapture modelling
-
 -   Distance sampling
-
 -   Survival analysis
-
 -   Heavily censored data
 
-## [Software]{.smallcaps}
+</div>
 
--   R and S-Plus
-
+<div class="bg-light p-5 rounded-lg m-3">
+  <h1 class="display-4">Software</h1>
+  <p class="lead">Some example text for what we can do to help</p>
+-   R
 -   MARK
-
 -   Distance
-
 -   Density
-
 -   Presence
-
 -   OpenBUGS
-
 -   Genstat
-
 -   Minitab
-
 -   RAMAS Metapop
-
 -   Echoview
-
 -   MaxEnt
+</div>
 
-## [Teaching]{.smallcaps}
 
+<div class="bg-light p-5 rounded-lg m-3">
+  <h1 class="display-4">Teaching</h1>
+  <p class="lead">Some example text for what we can do to help</p>
 -   Taught workshops on species distribution modelling using MaxEnt, capture-recapture modelling using MARK, distance sampling with program Distance and Statistical Modelling in R and Genstat
-
 -   Assisted with the teaching of under-graduate and Masters level statistics courses
+</div>
+
+
+:::: {.bg-light .p-5 .rounded-lg .m-3}
+
+::: {.grid}
+
+::: {.g-col-4}
+![](https://www.theanalyticaledge.com/images/slides/woodrat.jpg){alt=""}
+The Key Largo woodrat was used as a case study species for the development of trapping point transects
+:::
+
+::: {.g-col-4}
+![](https://www.theanalyticaledge.com/images/slides/aircraft.jpg){alt=""} 
+
+Joanne investigated the difference between different statistical estimation techniques for heavily censored data sets, using aircraft component failure as the motivating example
+
+:::
+
+::: {.g-col-4}
+![](https://www.theanalyticaledge.com/images/slides/citrus_canker.jpg){alt=""} 
+
+Joanne developed risk-based trace priorities for an outbreak of citrus canker in Queensland
+
+:::
+
+:::
+
+::::

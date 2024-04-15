@@ -1,6 +1,21 @@
-## Mike Cove
-
-![](images/clipboard-1363128193.png)
+---
+title: "Mike Cove"
+image: "../images/mike-cove.png"
+date: "2024-01-02"
+format:
+  html:
+    page-layout: full
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.theanalyticaledge\.com\/custom'
+about:
+    id: about-block
+    template: trestles
+    image-shape: round
+    links:
+      - icon: envelope
+        text: "Email"
+        href: "mailto:mike@theanalyticaledge.com"
+---
 
 Mike Cove is an applied conservation ecologist and mammalogist, with a strong quantitative background, having completed his PhD studies at NCSU utilising occupancy modelling and spatial capture-recapture techniques to study small mammals.
 

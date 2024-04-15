@@ -3,9 +3,9 @@ project:
 
 website:
   title: ""
-  favicon: "logos/tae-logo-colour-uniform.png"
+  favicon: "logos/tae_logo_histogram.jpg"
   navbar:
-    logo: "logos/tae-logo-colour-uniform.png"
+    logo: "logos/tae_logo.png"
     logo-alt: "Logo for The Analytical Edge"
     right:
       - text: "About"

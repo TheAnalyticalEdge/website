@@ -1,0 +1,20 @@
+---
+title: "Roland Proud"
+image: "../images/roland-proud.png"
+date: "2024-01-06"
+format:
+  html:
+    page-layout: full
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.theanalyticaledge\.com\/custom'
+about:
+    id: about-block
+    template: trestles
+    image-shape: round
+    links:
+      - icon: envelope
+        text: "Email"
+        href: "mailto:hugh@theanalyticaledge.com"
+---
+
+Roland Proud is Company Director of [Cupar Analytics](https://cuparanalytics.com/).
