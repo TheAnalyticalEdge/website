@@ -70,3 +70,61 @@ tae_bw_pal
 
 swatchplot(desaturate(new_edge_pal),
            border = "transparent")
+
+# finding new colours that have similar values
+colorspace::hex2RGB("#00AEEF")
+
+colorspace::hcl_color_picker()
+
+"#D5980E"
+"#15BC57"
+"#F97B9A"
+"#ED8866"
+
+colorspace::hcl_color_picker()
+
+# feathers_palettes$bee_eater
+bee_eater <- list(
+    dark_blue = "#00346E",
+    key_blue = "#007CBF",
+    lighter_blue = "#06ABDF",
+    yellow = "#EDD03E",
+    orange = "#F5A200",
+    green = "#6D8600",
+    dark_green = "#424D0C"
+    )
+
+library(colorspace)
+
+purrr::map(feathers_palettes, \(x) swatchplot(x, cvd = TRUE))
+
+swatchplot(feathers_palettes$eastern_rosella, cvd = TRUE)
+
+feathers_palettes$eastern_rosella
+eastern_rosella <- list(
+    red = "#cd3122",
+    yellow = "#f4c623",
+    lgreen = "#bee183",
+    mgreen = "#6c905e",
+    dgreen = "#2f533c",
+    lblue = "#b8c9dc",
+    blue = "#2f7ab9"
+)
+
+eastern_rosella
+
+hcl_tae_cols <- list(
+    pink = "#ED7DDF",
+    salmon = "#F9809A",
+    rust = "#EB8F62",
+    mustard = "#D19E13",
+    green = "#88B404",
+    lime = "#1ABE62",
+    blue = "#1DB1F3"
+)
+
+swatchplot(unlist(hcl_tae_cols), cvd = TRUE)
+specplot(unlist(hcl_tae_cols))
+
+specplot(c("#1DB1F3", "#9186DC", "#9662B2", "#913D8D", "#7B2556"))
+swatchplot(c("#1DB1F3", "#9186DC", "#9662B2", "#913D8D", "#7B2556"), cvd = TRUE)

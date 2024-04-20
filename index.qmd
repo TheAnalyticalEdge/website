@@ -3,7 +3,7 @@ title: "The Analytical Edge"
 format:
     html:
       toc: false
-title-block-banner: images/paper-alpine-flower.jpg
+title-block-banner: "#00AEEF"
 description: We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
 title-block-banner-color: "#FFFFFF"
 ---

@@ -3,7 +3,7 @@ format:
   html:
     toc: false
 title: "About"
-title-block-banner: images/paper-alpine-flower.jpg
+title-block-banner: "#ED7DDF"
 description: "We are a network of statisticians, ecologists, and biosecurity experts, whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals."
 title-block-banner-color: "#FFFFFF"
 ---

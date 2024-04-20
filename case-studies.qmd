@@ -1,6 +1,6 @@
 ---
 title: "Case Studies"
-title-block-banner: images/paper-alpine-flower.jpg
+title-block-banner: "#1ABE62"
 description: We believe in making science better. Part of that is sharing what we do with the wider public. 
 title-block-banner-color: "#FFFFFF"
 listing:

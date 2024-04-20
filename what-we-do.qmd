@@ -3,7 +3,7 @@ format:
   html:
     toc: false
 title: "What we do"
-title-block-banner: images/paper-alpine-flower.jpg
+title-block-banner: "#88B404"
 description: We have worked in a variety of industries and applications
 title-block-banner-color: "#FFFFFF"
 ---
