@@ -1,72 +1,278 @@
 ---
-title: "The Analytical Edge"
 format:
     html:
       toc: false
-title-block-banner: "#00AEEF"
-description: We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
-title-block-banner-color: "#FFFFFF"
+      smooth-scroll: true
+      page-layout: full
 ---
 
-# Core Values
+<br>
 
-<!-- Our work is underpinned by our **core values** of: -->
+# We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
+
+<br> <br>
+
+::: column-screen-left
+![](images/clouds-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
+::: grid
+::: g-col-4
+# About Us
+:::
+
+::: g-col-8
+::: nice
+We are a network of statisticians, ecologists, and biosecurity experts, whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
+
+Our services include:
+
+-   Use of risk-based investigative tools for assessing the consequences of management actions
+
+-   Designing surveillance protocols to eradicate diseases within agricultural settings
+
+-   Survey design to estimate animal and plant abundance
+
+-   Analysis of data collected via active underwater acoustics to analyse migration patterns
+
+-   Survey design and data analysis for population modelling, including species spread and population growth in landscapes
+
+-   Application of sophisticated data analysis techniques to publish research in high impact, peer-reviewed journals
+
+-   Delivery of technical workshops on statistical topics
+
+For some examples of our work, see our [case studies](case-studies.html)
+:::
+:::
+:::
+:::
+
+<br> <br>
+
+::: column-screen-right
+![](images/bricks-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
+# We Work With
+
+<br> 
+<br>
 
 ::: grid
-::: g-col-6
-Sound methodology that is meaningful for your decision-making
 
-Quality research
-:::
-
-::: g-col-6
-Client-focused communication
-
-Working across multi-disciplinary fields
-
-Protecting sensitive information
+::: g-col-4
+:::text-center
+{{< fa graduation-cap size=7x >}} 
 :::
 :::
 
-# Audience
+::: g-col-4
+:::text-center
+{{< fa industry size=7x >}} 
+:::
+:::
 
-<!-- Our business includes: -->
+::: g-col-4
+:::text-center
+{{< fa landmark size=7x >}} 
+:::
+:::
 
-::: grid
-::: g-col-3
-{{< fa graduation-cap size=2xl >}} 
+::: g-col-4
+::: nice
+:::text-center
 Academia
 :::
-
-::: g-col-3
-{{< fa industry size=2xl >}} 
-Private industry
+:::
 :::
 
-::: g-col-3
-{{< fa landmark size=2xl >}} 
+::: g-col-4
+::: nice
+:::text-center
+Private industry
+:::
+:::
+:::
+
+::: g-col-4
+::: nice
+:::text-center
 Government agencies
 :::
 :::
+:::
 
+:::
+:::
+
+<br> 
+<br>
+<br> 
+
+::: column-screen
+![](images/pct-sunset-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
+::: grid
+::: g-col-4
+# Core Values
+:::
+
+::: g-col-8
+::: nice
+-   Sound methodology that is meaningful for your decision-making
+-   Quality research
+-   Client-focused communication
+-   Working across multi-disciplinary fields
+-   Protecting sensitive information
+:::
+:::
+:::
+:::
+
+<br> <br>
+
+::: column-screen-right
+![](images/moss-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
 # Our Clients
 
+::: clients
+[Department of Natural Resources and Environment Tasmania]() // [University of Tasmania]() // [Institute for Marine and Antarctic Science]() // [Australian Wildlife Conservatory]() // [Biosecurity Solutions Australia]() // [Save the Tasmanian Devil Program]() //
+:::
+:::
+
+<br> <br>
+
+::: column-screen-left
+![](images/pct-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
 ::: grid
-::: g-col-3
-Department of Natural Resources and Environment Tasmania
+# Fields of investigation
 
-University of Tasmania
+::: g-col-8
+::: clients
+<br> Survival analysis // Underwater acoustics // Social surveys // Environmental // Engineering
+:::
+:::
+:::
 :::
 
-::: g-col-3
-Institute for Marine and Antarctic Science
+<br> <br>
 
-Australian Wildlife Conservatory
+::: column-screen
+![](images/blue-thin.jpg)
 :::
 
-::: g-col-3
-Biosecurity Solutions Australia
+<br> <br>
 
-Save the Tasmanian Devil Program
+::: column-page
+# Statistical Expertise
+
+::: nice
+::: labelbox
+Power analyses
+:::
+
+::: labelbox
+Laboratory and field experimental design
+:::
+
+::: labelbox
+Analysing longitudinal data
+:::
+
+::: labelbox
+Establishing long-term monitoring programs to estimate species abundance
+:::
+
+::: labelbox
+Occupancy modelling
+:::
+
+::: labelbox
+Generalised linear modelling
+:::
+
+::: labelbox
+Generalised linear mixed modelling
+:::
+
+::: labelbox
+Generalised additive modelling
+:::
+
+::: labelbox
+Capture-recapture statistics
+:::
+
+::: labelbox
+Spatially explicit capture-recapture modelling
+:::
+
+::: labelbox
+Distance sampling
+:::
+
+::: labelbox
+Survival analysis
+:::
+
+::: labelbox
+Heavily censored data
+:::
+:::
+:::
+
+<br> <br>
+
+::: column-screen-right
+![](images/alp-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
+# Teaching
+
+::: clients
+-   Species distribution modelling using MaxEnt
+-   Capture-recapture modelling using MARK,
+-   Distance sampling with "Distance"
+-   Statistical Modelling in R and Genstat
+-   Also support under-graduate and Masters level statistics courses
+:::
+:::
+
+<br> <br>
+
+::: column-screen-left
+![](images/circles-thin.jpg)
+:::
+
+<br> <br>
+
+::: column-page
+# Software
+
+::: clients
+R // MARK // Distance // Density // Presence // OpenBUGS // Genstat // Minitab // RAMAS Metapop // Echoview // MaxEnt
 :::
 :::

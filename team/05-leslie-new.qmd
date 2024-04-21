@@ -1,6 +1,6 @@
 ---
 title: "Leslie New"
-image: "../images/leslie-new.png"
+image: "../people/leslie-new.png"
 date: "2024-01-05"
 format:
   html:

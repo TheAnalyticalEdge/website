@@ -1,6 +1,6 @@
 ---
 title: "Jim Lovell"
-image: "../images/jim-lovell.png"
+image: "../people/jim-lovell.png"
 date: "2024-01-03"
 format:
   html:
