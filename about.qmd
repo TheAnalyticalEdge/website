@@ -10,7 +10,7 @@ title-block-banner-color: "#FFFFFF"
 
 Our services include:
 
--   Use of risk-based investigative tools for assessing the consequences of management actions
+-  Use of risk-based investigative tools for assessing the consequences of management actions
 
 -   Designing surveillance protocols to eradicate diseases within agricultural settings
 

@@ -34,14 +34,17 @@ Protecting sensitive information
 
 ::: grid
 ::: g-col-3
+{{< fa graduation-cap size=2xl >}} 
 Academia
 :::
 
 ::: g-col-3
+{{< fa industry size=2xl >}} 
 Private industry
 :::
 
 ::: g-col-3
+{{< fa landmark size=2xl >}} 
 Government agencies
 :::
 :::
