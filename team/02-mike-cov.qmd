@@ -1,6 +1,6 @@
 ---
 title: "Mike Cove"
-image: "../images/mike-cove.png"
+image: "../people/mike-cove.png"
 date: "2024-01-02"
 format:
   html:

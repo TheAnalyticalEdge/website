@@ -3,7 +3,8 @@ project:
 
 website:
   title: ""
-  favicon: "logos/tae_logo_histogram.jpg"
+  back-to-top-navigation: true
+  favicon: "logos/tae_fav.png"
   navbar:
     logo: "logos/tae_logo.png"
     logo-alt: "Logo for The Analytical Edge"
@@ -11,11 +12,9 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "About"
-        href: about.qmd
+        href: index.qmd#about-us
       - text: "Team"
         href: team.qmd
-      - text: "What we do"
-        href: what-we-do.qmd
       - text: "Case Studies"
         href: case-studies.qmd
 

@@ -1,12 +1,20 @@
 ---
-title: "Team"
+title: ""
 listing:
   contents: team
   type: grid 
   sort:
       - date
   fields: [image, title]
-title-block-banner: "#EB8F62"
-description: We work with a diverse range of professional consultants in ecology, statistics, and data science.
-title-block-banner-color: "#FFFFFF"
+toc: false
 ---
+
+<br>
+
+:::{.column-page-inset-left}
+# We work with a diverse range of professional consultants in ecology, statistics, and data science.
+:::
+
+<br>
+<br>
+<br>

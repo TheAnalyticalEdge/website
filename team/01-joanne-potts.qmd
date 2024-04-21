@@ -1,6 +1,6 @@
 ---
 title: "Joanne Potts"
-image: "../images/joanne-potts.png"
+image: "../people/joanne-potts.png"
 date: "2024-01-01"
 format:
   html:

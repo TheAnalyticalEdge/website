@@ -1,0 +1,17 @@
+---
+title: "Largo Woodrat"
+description: "The Key Largo woodrat was used as a case study species for the development of trapping point transects"
+author:
+  - name: Joanne Potts
+    url: https://www.theanalyticaledge.com
+    # orcid: 0000-XXXX-XXXX-XXXX
+    affiliation: The Analytical Edge
+date: 04-15-2023
+categories: [R, ecology] # self-defined categories
+# citation: 
+  # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
+image: "../../images/woodrat.jpg"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Here's some example text for this case study
