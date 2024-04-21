@@ -163,7 +163,7 @@ Government agencies
 
 <br> <br>
 
-::: column-page
+::: column-screen-inset-right
 ::: grid
 # Fields of investigation
 
