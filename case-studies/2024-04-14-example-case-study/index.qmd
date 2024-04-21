@@ -2,12 +2,12 @@
 title: "Example Case Study"
 description: "Some example case study description. This appears under the title, and is also on the listings page."
 author:
-  - name: Joanne Potts
-    url: https://www.theanalyticaledge.com
+  - name: Nicholas Tierney
+    url: https://www.njtierney.com
     # orcid: 0000-XXXX-XXXX-XXXX
-    affiliation: The Analytical Edge
+    affiliation: Outside Analytics
 date: 04-14-2023
-categories: [R, ecology] # self-defined categories
+categories: [R, missing-data] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
 image: example-image.png
@@ -15,3 +15,64 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 ---
 
 Here's some example text for this case study
+
+This is a quarto document, so you can include any normal R (or Python, or Julia, or more!) code in here.
+
+Equations are supported
+
+$$
+Pr(\theta|y) = \frac{Pr(y|\theta)Pr(\theta)}{\Pr(y)}
+$$
+
+Here's some code.
+
+```{r}
+#| label: terra-rast-vec
+library(terra)
+raster_file <- system.file("ex/elev.tif", package = "terra") |> rast()
+raster_file
+
+vector_file <- system.file("ex/lux.shp", package = "terra") |> vect()
+vector_file
+
+```
+
+```{r}
+#| label: terra-plot-lines
+plot(raster_file)
+lines(vector_file)
+
+```
+
+```{r}
+#| label: libs
+library(brolgar)
+library(naniar)
+library(visdat)
+library(tidyverse)
+
+```
+
+```{r}
+#| label: visdat-naniar
+vis_miss(airquality)
+gg_miss_var(airquality)
+gg_miss_upset(airquality)
+
+```
+
+```{r}
+#| label: plot-heights
+ggplot(heights,
+       aes(x = year,
+           y = height_cm,
+           group = country)) + 
+    geom_line()
+
+ggplot(heights,
+       aes(x = year,
+           y = height_cm,
+           group = country)) + 
+    geom_line() +
+    facet_strata(along = -height_cm)
+```
