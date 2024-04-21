@@ -8,7 +8,9 @@ format:
 
 <br>
 
+::: column-page
 # We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
+:::
 
 <br> <br>
 
