@@ -1,16 +1,16 @@
 ---
-title: "Citrus Canker"
-description: "Joanne developed risk-based trace priorities for an outbreak of citrus canker in Queensland"
+title: "Four principles for improved statistical ecology"
+description: "Example text"
 author:
   - name: Joanne Potts
     url: https://www.theanalyticaledge.com
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: The Analytical Edge
-date: 04-17-2023
-categories: [R, biosecurity, disease modelling, agriculture] # self-defined categories
+date: 04-21-2023
+categories: [R, ecology, statistics] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../images/citrus_canker.jpg"
+image: "../../logos/tasmanian_devil.jpg"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

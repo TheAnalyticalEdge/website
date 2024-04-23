@@ -7,7 +7,7 @@ author:
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: Outside Analytics
 date: 04-14-2023
-categories: [R, missing-data] # self-defined categories
+categories: [R, missing-data, ecology, fisheries, acoustics, engineering, medical-research] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
 image: example-image.png

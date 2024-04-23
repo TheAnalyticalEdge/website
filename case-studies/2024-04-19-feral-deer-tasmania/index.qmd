@@ -1,17 +1,19 @@
 ---
-title: "Citrus Canker"
-description: "Joanne developed risk-based trace priorities for an outbreak of citrus canker in Queensland"
+title: "Feral deer in Tasmania"
+description: "Example text"
 author:
   - name: Joanne Potts
     url: https://www.theanalyticaledge.com
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: The Analytical Edge
-date: 04-17-2023
-categories: [R, biosecurity, disease modelling, agriculture] # self-defined categories
+date: 04-19-2023
+categories: [R, invasive-species, population-modelling] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../images/citrus_canker.jpg"
+image: "../../logos/tasmanian_devil.jpg"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
 Here's some example text for this case study
+
+There is media coverage and a published article for this article
