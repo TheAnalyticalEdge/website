@@ -8,8 +8,10 @@ format:
 
 <br>
 
-::: column-page
-# We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
+::: column-body
+::: larger
+We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
+:::
 :::
 
 <br> <br>
@@ -63,32 +65,30 @@ For some examples of our work, see our [case studies](case-studies.html)
 ::: column-page
 # We Work With
 
-<br> 
-<br>
+<br> <br>
 
 ::: grid
-
 ::: g-col-4
-:::text-center
-{{< fa graduation-cap size=7x >}} 
-:::
-:::
-
-::: g-col-4
-:::text-center
-{{< fa industry size=7x >}} 
+::: text-center
+{{< fa graduation-cap size=6x >}}
 :::
 :::
 
 ::: g-col-4
-:::text-center
-{{< fa landmark size=7x >}} 
+::: text-center
+{{< fa industry size=6x >}}
+:::
+:::
+
+::: g-col-4
+::: text-center
+{{< fa landmark size=6x >}}
 :::
 :::
 
 ::: g-col-4
 ::: nice
-:::text-center
+::: text-center
 Academia
 :::
 :::
@@ -96,7 +96,7 @@ Academia
 
 ::: g-col-4
 ::: nice
-:::text-center
+::: text-center
 Private industry
 :::
 :::
@@ -104,18 +104,15 @@ Private industry
 
 ::: g-col-4
 ::: nice
-:::text-center
+::: text-center
 Government agencies
 :::
 :::
 :::
-
 :::
 :::
 
-<br> 
-<br>
-<br> 
+<br> <br> <br>
 
 ::: column-screen
 ![](images/pct-sunset-thin.jpg)
@@ -153,7 +150,7 @@ Government agencies
 # Our Clients
 
 ::: clients
-[Department of Natural Resources and Environment Tasmania]() // [University of Tasmania]() // [Institute for Marine and Antarctic Science]() // [Australian Wildlife Conservatory]() // [Biosecurity Solutions Australia]() // [Save the Tasmanian Devil Program]() //
+[Biota](https://www.biota.net.au/) // [DBCA](https://www.dbca.wa.gov.au/) // [UTAS](https://www.utas.edu.au/) // [UWS](https://www.westernsydney.edu.au/) // [DNRE](https://nre.tas.gov.au/) // [TLC](https://tasland.org.au/about-the-tlc/) // [Menzies](https://www.menzies.utas.edu.au/) // [Baker Institute](https://baker.edu.au/) // [DCCEW](https://www.dcceew.gov.au/) // [Difficult Bird Group](https://www.difficultbirds.com/) // [Speciality Feeds](https://www.specialtyfeeds.com/) // [ANU](https://www.anu.edu.au/)
 :::
 :::
 
@@ -165,15 +162,11 @@ Government agencies
 
 <br> <br>
 
-::: column-screen-inset-right
-::: grid
+::: column-page
 # Fields of investigation
 
-::: g-col-8
 ::: clients
-<br> Survival analysis // Underwater acoustics // Social surveys // Environmental // Engineering
-:::
-:::
+[Ecology](case-studies.html#category=ecology) // [Fisheries](case-studies.html#category=fisheries) // [Acoustics](case-studies.html#category=acoustics) // [Engineering](case-studies.html#category=engineering) // [Medical Research](case-studies.html#category=medical-research)
 :::
 :::
 
@@ -255,11 +248,11 @@ Heavily censored data
 # Teaching
 
 ::: clients
--   Species distribution modelling using MaxEnt
--   Capture-recapture modelling using MARK,
--   Distance sampling with "Distance"
--   Statistical Modelling in R and Genstat
--   Also support under-graduate and Masters level statistics courses
+-   Introductory statistics in R
+-   Abundance estimation methods
+-   Using RMarkdown (and now Quarto) for report writing
+-   Understanding and implementing spatially explicit capture-recapture analyses in R
+-   Introduction to estimation and modelling of ecological populations
 :::
 :::
 
@@ -275,6 +268,6 @@ Heavily censored data
 # Software
 
 ::: clients
-R // MARK // Distance // Density // Presence // OpenBUGS // Genstat // Minitab // RAMAS Metapop // Echoview // MaxEnt
+R // MARK // Distance // RAMAS Metapop // Echoview
 :::
 :::

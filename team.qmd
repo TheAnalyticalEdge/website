@@ -12,7 +12,9 @@ toc: false
 <br>
 
 :::{.column-page-inset-left}
-# We work with a diverse range of professional consultants in ecology, statistics, and data science.
+:::larger
+We work with a diverse range of professional consultants in ecology, statistics, and data science
+:::
 :::
 
 <br>
