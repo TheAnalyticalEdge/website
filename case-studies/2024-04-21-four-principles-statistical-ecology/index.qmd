@@ -6,7 +6,7 @@ author:
     url: https://www.theanalyticaledge.com
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: The Analytical Edge
-date: 04-21-2023
+# date: 04-21-2023
 categories: [R, ecology, statistics] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 

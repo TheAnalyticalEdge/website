@@ -9,6 +9,10 @@
     font-size: 2.5rem;
 }
 
+thumbnail-image card-img{
+    height: 100%;
+}
+
 h1 {
     font-size: 4rem;
     font-weight: 400;

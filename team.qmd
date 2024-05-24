@@ -11,12 +11,10 @@ toc: false
 
 <br>
 
-:::{.column-page-inset-left}
-:::larger
+::: column-page-inset-left
+::: larger
 We work with a diverse range of professional consultants in ecology, statistics, and data science
 :::
 :::
 
-<br>
-<br>
-<br>
+<br> <br> <br>
