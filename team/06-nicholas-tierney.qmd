@@ -1,6 +1,5 @@
 ---
 title: "Nicholas Tierney"
-date: "2024-01-08"
 image: "../logos/tasmanian_devil.jpg"
 format:
   html:

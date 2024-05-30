@@ -1,6 +1,5 @@
 ---
 title: "Russell Thomson"
-date: "2024-01-07"
 image: "../logos/tasmanian_devil.jpg"
 format:
   html:
@@ -16,4 +15,3 @@ about:
         text: "Email"
         href: "mailto:russell@theanalyticaledge.com"
 ---
-

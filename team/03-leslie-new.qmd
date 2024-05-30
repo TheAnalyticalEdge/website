@@ -1,7 +1,6 @@
 ---
 title: "Leslie New"
 image: "../people/leslie-new.png"
-date: "2024-01-05"
 format:
   html:
     page-layout: full

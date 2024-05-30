@@ -1,7 +1,6 @@
 ---
 title: "Hugh McGregor"
 image: "../people/hugh-mcgregor.png"
-date: "2024-01-04"
 format:
   html:
     page-layout: full
