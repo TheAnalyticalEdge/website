@@ -6,7 +6,6 @@ author:
     url: https://www.theanalyticaledge.com
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: The Analytical Edge
-date: 04-19-2023
 categories: [R, invasive-species, population-modelling] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
