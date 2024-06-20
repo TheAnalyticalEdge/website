@@ -10,7 +10,7 @@ format:
 
 ::: column-body
 ::: larger
-We can work with **any industry**, in support of **evidence-based decision-making** and **policy development** through **quality survey design** and **data analysis**.
+We specialise in designing high-quality surveys and analysing data to help any industry make evidence-based decisions and develop effective policy.
 :::
 :::
 
@@ -30,23 +30,23 @@ We can work with **any industry**, in support of **evidence-based decision-makin
 
 ::: g-col-8
 ::: nice
-We are a network of statisticians, ecologists, and biosecurity experts, whose work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
+We are a network of statisticians and ecologists. Our work supports diverse stakeholders such as academia, government and the private sector, to achieve their goals.
 
 Our services include:
 
--   Use of risk-based investigative tools for assessing the consequences of management actions
+-   using risk-based investigative tools to assess the consequences of management actions
 
--   Designing surveillance protocols to eradicate diseases within agricultural settings
+-   designing surveillance protocols to eradicate diseases within agricultural settings
 
--   Survey design to estimate animal and plant abundance
+-   designing surveys to estimate animal and plant abundance
 
--   Analysis of data collected via active underwater acoustics to analyse migration patterns
+-   analysing data collected via active underwater acoustics to study migration patterns
 
--   Survey design and data analysis for population modelling, including species spread and population growth in landscapes
+-   designing surveys and analysing data for population modelling, including species spread and population growth in landscapes
 
--   Application of sophisticated data analysis techniques to publish research in high impact, peer-reviewed journals
+-   applying sophisticated data analysis techniques to publish research in high impact, peer-reviewed journals
 
--   Delivery of technical workshops on statistical topics
+-   delivering technical workshops on statistical topics.
 
 For some examples of our work, see our [case studies](case-studies.html)
 :::
@@ -150,7 +150,12 @@ Government agencies
 # Our Clients
 
 ::: clients
-[Biota](https://www.biota.net.au/) // [DBCA](https://www.dbca.wa.gov.au/) // [UTAS](https://www.utas.edu.au/) // [UWS](https://www.westernsydney.edu.au/) // [DNRE](https://nre.tas.gov.au/) // [TLC](https://tasland.org.au/about-the-tlc/) // [Menzies](https://www.menzies.utas.edu.au/) // [Baker Institute](https://baker.edu.au/) // [DCCEW](https://www.dcceew.gov.au/) // [Difficult Bird Group](https://www.difficultbirds.com/) // [Speciality Feeds](https://www.specialtyfeeds.com/) // [ANU](https://www.anu.edu.au/)
+[Australian Wildlife Conservancy](https://www.australianwildlife.org) //
+[Baker Institute](https://baker.edu.au/) //
+[Biota](https://www.biota.net.au/) // [DBCA](https://www.dbca.wa.gov.au/) // [DCCEW](https://www.dcceew.gov.au/) // 
+[Difficult Bird Group](https://www.difficultbirds.com/) // [DNRE](https://nre.tas.gov.au/) // [Menzies](https://www.menzies.utas.edu.au/) // 
+[Speciality Feeds](https://www.specialtyfeeds.com/) //
+[TLC](https://tasland.org.au/about-the-tlc/) // [UTAS](https://www.utas.edu.au/) // [UWS](https://www.westernsydney.edu.au/) 
 :::
 :::
 

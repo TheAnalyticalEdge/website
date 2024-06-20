@@ -1,6 +1,6 @@
 ---
 title: "Four principles for improved statistical ecology"
-description: "Example text"
+description: "We show how ecologists can build their research following four guiding principles for impactful statistical research practices."
 author:
   - name: Joanne Potts
     url: https://www.theanalyticaledge.com
@@ -9,10 +9,24 @@ author:
 categories: [R, ecology, statistics] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../logos/tasmanian_devil.jpg"
+image: "../../case-studies/2024-04-21-four-principles-statistical-ecology/four.principles.png"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 execute: 
   freeze: true
 ---
 
-Here's some example text for this case study
+At the [International Statistical Ecology Conference](https://isec2020.multiscreensite.com/#:~:text=June%2022%2D26%2C%202020%208,%2D11am%20%26%209pm%2D12am%20GMT&text=There%20were%20two%20conference%20sessions,thousand%20messages%20in%20public%20channels) in 2020, there was a round table discussion on developing some guiding principals for ecologists to improve experimental design and to ensure their reporting is transparent and repeatable.
+
+This was a large collaborative project led by [Dr Gordana Popovic](https://research.unsw.edu.au/people/dr-gordana-popovic), involving 18 lead authors from five continents. The Abstract was translated in to four languages other than English - testimony to the diversity of the authorship. Twenty-eight other researchers participated in the round table discussions providing valuable insights in to their experience and feedback in to their experience working in the statistical ecology space.
+
+We agreed on four guiding principles. They were:
+
+1.  define a focused research question, then plan sampling and analysis to answer it;
+
+2.  develop a model that accounts for the distribution and dependence of your data;
+
+3.  emphasise effect sizes to replace statistical significance with ecological relevance; and
+
+4.  report your methods and findings in sufficient detail so that your research is valid and reproducible.
+
+The article is open access and available [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14270).

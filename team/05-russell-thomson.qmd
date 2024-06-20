@@ -1,6 +1,6 @@
 ---
 title: "Russell Thomson"
-image: "../logos/tasmanian_devil.jpg"
+image: "../people/red-Russell.jpg"
 format:
   html:
     page-layout: full
