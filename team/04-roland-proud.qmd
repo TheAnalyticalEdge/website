@@ -13,7 +13,11 @@ about:
     links:
       - icon: envelope
         text: "Email"
-        href: "mailto:hugh@theanalyticaledge.com"
+        href: "mailto:roland.proud@cuparanalytics.com"
 ---
 
-Roland Proud is Company Director of [Cupar Analytics](https://cuparanalytics.com/).
+Roland Proud is the Managing Director of [Cupar Analytics](https://cuparanalytics.com) (Scotland, UK), which was founded with the primary objective of promoting sustainable development using state-of-the-art data analytics. The company sits between industry leaders in data collection, management, and reporting, providing insight and analysis. Cupar Analytics Ltd thrives on working with complex, large volume datasets, that are often disorganised and repleat with human-error, providing context, order and new meaning. This is achieved through data cleaning, statistical analysis, modelling, machine learning and AI.
+
+Roland is also an Honorary Research Fellow at the University of St. Andrews and a member of the Pelagic Ecology Research Group. He holds a PhD in Bioacoustics and Marine Ecology (University of St Andrews and University of Tasmania, 2016), an MPhys in Physics and Astrophysics (University of Sheffield, 2008) and a MRes in Ecosystem-based Management of Marine Systems (University of St Andrews, 2012). He has recently worked on EU Horizon 2020 projects “SUMMER” and “Mission Atlantic” to investigate the environmental repercussions of exploitation of mesopelagic resources. In his academic role, he specialises in the development of novel acoustic-based methods of fish biomass estimation, which combine echosounder observations, catch data, eDNA samples and optics.
+ 
+Please see [Roland’s Google Scholar Profile](https://scholar.google.com/citations?user=X44x6HAAAAAJ&hl=en&oi=ao) for an update record or his peer reviewed, scientific publications. 
