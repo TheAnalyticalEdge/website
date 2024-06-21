@@ -150,12 +150,7 @@ Government agencies
 # Our Clients
 
 ::: clients
-[Australian Wildlife Conservancy](https://www.australianwildlife.org) //
-[Baker Institute](https://baker.edu.au/) //
-[Biota](https://www.biota.net.au/) // [DBCA](https://www.dbca.wa.gov.au/) // [DCCEW](https://www.dcceew.gov.au/) // 
-[Difficult Bird Group](https://www.difficultbirds.com/) // [DNRE](https://nre.tas.gov.au/) // [Menzies](https://www.menzies.utas.edu.au/) // 
-[Speciality Feeds](https://www.specialtyfeeds.com/) //
-[TLC](https://tasland.org.au/about-the-tlc/) // [UTAS](https://www.utas.edu.au/) // [UWS](https://www.westernsydney.edu.au/) 
+[Australian Wildlife Conservancy](https://www.australianwildlife.org) // [Baker Institute](https://baker.edu.au/) // [Biota](https://www.biota.net.au/) // [DBCA](https://www.dbca.wa.gov.au/) // [DCCEW](https://www.dcceew.gov.au/) // [Difficult Bird Group](https://www.difficultbirds.com/) // [DNRE](https://nre.tas.gov.au/) // [Menzies](https://www.menzies.utas.edu.au/) // [Speciality Feeds](https://www.specialtyfeeds.com/) // [TLC](https://tasland.org.au/about-the-tlc/) // [UTAS](https://www.utas.edu.au/) // [UWS](https://www.westernsydney.edu.au/)
 :::
 :::
 

@@ -1,6 +1,6 @@
 ---
 title: "Roland Proud"
-image: "../people/roland-proud.png"
+image: "../people/roland-proud.pdf"
 format:
   html:
     page-layout: full
