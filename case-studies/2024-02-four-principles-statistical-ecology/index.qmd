@@ -9,7 +9,7 @@ author:
 categories: [R, ecology, statistics] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../case-studies/2024-04-21-four-principles-statistical-ecology/four.principles.png"
+image: "../../case-studies/2024-02-four-principles-statistical-ecology/four.principles.png"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 execute: 
   freeze: true

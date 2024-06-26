@@ -1,5 +1,6 @@
 ---
 title: "Russell Thomson"
+subtitle: "Consultant Statitician"
 image: "../people/red-Russell.jpg"
 format:
   html:
@@ -15,3 +16,19 @@ about:
         text: "Email"
         href: "mailto:russell@theanalyticaledge.com"
 ---
+
+Russell is an Accredited Statistician with the Statistical Society of Australia. He completed a PhD at Monash University in mathematical statistics in 1998 at the age of 25. He completed postdoctoral positions at the University of California - Berkeley and Stanford University.
+
+Russell has experience in applying statistics to a very wide range of fields, including epidemiology, bioinformatics and environmental sciences. He garnered this experience in universities and institutes such as the Walter and Eliza Hall Institute for Medical Science, the Menzies Institute for Medical Research, Tasmania and the Institute for Marine and Antarctic Science. At Western Sydney University, he has helped higher degree research students across every discipline and school at the university. Russell's wide range of expertise is evidenced by his list of more than 100 peer reviewed publications ([Google Scholar Profile](https://scholar.google.com.au/citations?user=YDrFwf8AAAAJ&hl=en)).
+
+Russell has conducted numerous statistical consultancies while at Western Sydney University and Analytical Edge Pty Ltd, for entities such as Birdlife Australia, the Northern Sydney Regional Organisation of Councils, the Department of Land, Water and Planning and Forest Practices Authority. He led a team to generate a [report](https://researchdirect.westernsydney.edu.au/islandora/object/uws:67858/) for the Higher Education Participation and Partnerships Program, within the Department of Education. For further information, you can reach him on [russell\@theanalyticaledge.com](mailto:russell@theanalyticaledge.com).
+
+Testimonials:
+
+*What has been particularly impressive is the approach he takes to the consultation process. As someone who primarily uses mixed methods in my research I come to supervision with some statistical expertise. That said, Russell is able to add value to the ways in which the candidates undertake the statistical analysis of their data ensuring that those analyses are nuanced and tailored both to the nature of the data and, most importantly, the research questions being explored. His relaxed and open manner also means that he is able to work with them without further mystifying statistics since many come to this part of the thesis journey with some trepidation and even fear. They become confident of their ability and are readily able to explain their reasons for undertaking the analyses chosen.*
+
+Associate Professor Christine Johnston Associate Dean, International School of Education, Western Sydney University
+
+*My students have greatly benefited from the support offered by Dr. Russell Thomson.  He has offered invaluable help with knowledge, resources and advice. These have been of the highest quality and he has been very committed to finding a solution to the problems they have experienced in a timely way.*
+
+Yolima Carrillo Senior Lecturer Hawkesbury Institute for the Environment, WSU
