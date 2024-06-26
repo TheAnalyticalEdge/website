@@ -1,26 +1,17 @@
----
-title: "Joanne Potts"
-image: "../people/Jo headshot (v)-1.jpg"
-format:
-  html:
-    page-layout: full
-    toc: false
-about:
-    id: about-block
-    template: trestles
-    image-shape: round
-    links:
-      - icon: envelope
-        text: "Email"
-        href: "mailto:info@theanalyticaledge.com"
----
+Joanne, an ecological statistician based in southern Tasmania, is the director of The Analytical Edge Pty Ltd., a statistical consulting firm she has led since 2012. An Accredited Statistician with the [Statistical Society of Australia](https://www.statsoc.org.au), Joanne brings a wealth of expertise in survey design survey design and data analysis across a broad spectrum of applications. Her extensive project portfolio includes:
 
-## Company Director, Consultant Statistician
+-   conducting impact assessments and estimating abundance and distribution of invasive, rare and commercially harvested species, including [fallow deer](https://www.publish.csiro.au/WR/WR13206), [Patagonian toothfish](https://hal.science/hal-03331843/) and abalone
 
-Joanne is an Accredited Statistician with the Statistical Society of Australia and the Director of The Analytical Edge Statistical Consulting. Since 2012, Joanne has run her own statistical consulting firm, The Analytical Edge Pty. Ltd., based in southern Tasmania. During this time, she has successfully delivered numerous nationally and internationally funded projects to several state and federal government agencies, NGOs, private industry and academic researchers, advising on survey design and analysing data with a diverse area of application. Projects have included conducting impact assessments; estimating abundance and distribution of invasive, rare and commercially harvested species including [fallow deer](https://www.publish.csiro.au/WR/WR13206), [Patagonian toothfish](https://hal.science/hal-03331843/) and abalone; developing [species distribution](https://onlinelibrary.wiley.com/doi/full/10.1111/aec.13221) and population demographic models, and developing models of pest and disease spread to assess biosecurity risk in [agricultural settings](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12065).
+-   developing [species distribution](https://onlinelibrary.wiley.com/doi/full/10.1111/aec.13221) and population demographic models
 
-After completing her undergraduate degree at The University of Melbourne in Applied Statistics and Environmental Science, she worked as a consultant statistician at the [Arthur Rylah Institute for Ecological Research](https://www.ari.vic.gov.au) within the Victorian State Government. Here, she completed research in a variety of ecological applications, such as assessing the [impact of salinization](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2427.2006.01672.x/abstract), and [habitat fragmentation](http://www.publish.csiro.au/nid/144/display/citation/paper/WR07010.htm).
+-   creating models of pest and disease spread to assess biosecurity risks in [agricultural settings](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12065).
 
-In 2006, Joanne left the Victorian state government and moved to the [Centre for Research into Ecological and Environmental Modelling](http://creem2.st-andrews.ac.uk/) at University of St Andrews in Scotland, to undertake her PhD studies. She was supervised by Prof. Stephen Buckland, Dr. Len Thomas and Dr Anne Savage, and developed methods for incorporating animal movement data into capture-recapture analysis for [abundance estimation for small mammals](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2012.00205.x/abstract) and [compared abundance estimation techniques](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/wsb.651).
+Joanne has successfully delivered many nationally and internationally funded projects to state and federal government agencies, NGOs, private industry and academic researchers. She holds a Bachelor of Science from the University of Melbourne (2003) and a PhD in Applied Statistics from the University of St Andrews, Scotland (2011).
 
-Please see Joanne's [Google Scholar Profile](https://scholar.google.com.au/citations?user=XnnIFvAAAAAJ&hl=en) for update record of her peer reviewed, scientific publications. She is available for contact at [info\@theanalyticaledge.com](mailto:info@theanalyticaledge.com) for further information.
+**Professional background**
+
+After completing her undergraduate degree in Applied Statistics and Environmental Science at the University of Melbourne, Joanne worked as a consultant statistician at the [Arthur Rylah Institute for Ecological Research](https://www.ari.vic.gov.au) within the Government of Victoria, where she conducted ecological research in a areas such as the [impact of salinization](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2427.2006.01672.x/abstract), and [habitat fragmentation](http://www.publish.csiro.au/nid/144/display/citation/paper/WR07010.htm).
+
+In 2006, Joanne moved to the [Centre for Research into Ecological and Environmental Modelling](http://creem2.st-andrews.ac.uk/) at University of St Andrews in Scotland, to undertake her PhD studies. She was supervised by Prof. Stephen Buckland, Dr. Len Thomas, and Dr Anne Savage, and developed methods for incorporating animal movement data into capture-recapture analysis for [abundance estimation for small mammals](http://onlinelibrary.wiley.com/doi/10.1111/j.2041-210X.2012.00205.x/abstract) and [compared abundance estimation techniques](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/wsb.651).
+
+See Joanne's [Google Scholar Profile](https://scholar.google.com.au/citations?user=XnnIFvAAAAAJ&hl=en) for an up-to-date record of her peer-reviewed scientific publications.
