@@ -1,0 +1,35 @@
+---
+title: ""
+listing:
+  # contents: workshop-primerR 
+  type: grid
+  sort: "date desc" # can also sort on more than one field
+  categories: false # allows you to sort posts by assigned categories
+format:
+  html:
+    toc: false
+---
+
+<br>
+
+# A primer on Statistics using R
+
+## We believe in making science better. This includes teaching students, postgraduates, and researchers, whether as a refresher of their knowledge or as professional development to expand their skill set. 
+
+<br> <br> <br>
+
+This course will cover data manipulation, visualisation and analyses using R.
+
+It will be tailor-made to the needs of the participant. You can learn about t-tests, linear or logistic regression or other methods relevant to your research.
+
+What's included:
+
+-   online workshop with multiple attendees (2 hours)
+
+-   two one-on-one meetings with an experienced statistical consultant
+
+Presented: Dr. Russell Thomson, with 10+ years helping HDR students.
+
+Cost: \$500+GST.
+
+Enquiries: please email Russell.

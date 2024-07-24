@@ -15,6 +15,8 @@ website:
         href: index.qmd#about-us
       - text: "Team"
         href: team.qmd
+      - text: "Teaching"
+        href: index.qmd#Teaching
       - text: "Case Studies"
         href: case-studies.qmd
 
