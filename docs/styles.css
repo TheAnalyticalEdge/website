@@ -1,0 +1,78 @@
+/* css styles */
+.navbar-logo {
+    max-height: 48px;
+    width: auto;
+    padding-right: 4px;
+}
+
+.larger{
+    font-size: 2.5rem;
+}
+
+thumbnail-image card-img{
+    height: 100%;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 543.98px) {
+    h1 {
+        font-size:3.1666666666666665rem;
+        line-height: 3.2222222222222223rem;
+        letter-spacing: -0.1rem;
+    }
+}
+
+a {
+  text-decoration: underline 0.10em #343a40;
+  transition: text-decoration-color 300ms;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration-color: rgba(0, 0, 0, 0);
+}
+
+/* visited link */
+a:visited {
+  color: inherit;
+}
+
+/* selected link */
+a:active {
+  color: inherit;
+}
+
+.nice {
+    font-size: 1.5rem;
+}
+
+.clients {
+    font-size: 2rem;
+}
+
+.labelbox{
+    color: #343a40 !important;
+    border: 2px solid #343a40 !important;
+    border-radius: 3px;
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+    float: left !important;
+    margin-bottom: 5px !important;
+    margin-right: 5px !important;
+}
+.labelbox p{
+    margin-bottom: 0rem !important;
+    margin-top: 0rem !important;
+}
+
+.nav-footer p {
+    font-size: 1rem;
+}
+
+.navbar p {
+    font-size: 5rem;
+}
