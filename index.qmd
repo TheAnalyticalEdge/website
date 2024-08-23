@@ -8,7 +8,7 @@ format:
 
 <br>
 
-::: column-screen-left
+::: column-body
 ::: larger
 We specialise in designing high-quality surveys and analysing data to help any industry make evidence-based decisions and develop effective policy.
 :::
