@@ -8,7 +8,7 @@ format:
 
 <br>
 
-::: column-body
+::: column-screen-left
 ::: larger
 We specialise in designing high-quality surveys and analysing data to help any industry make evidence-based decisions and develop effective policy.
 :::
@@ -248,11 +248,11 @@ Heavily censored data
 # Teaching
 
 ::: clients
--   Upcoming spatial capture recapture workshop, Nov 25-29th 2024 in Perth, Western Australia. [Registration link is here.](https://members.awms.org.au/resources/Documents/AWMS2024%20Flyer_SECR%20workshop%20Nov%202024.pdf)
--   [A primer on statistics using R](teaching/r-course.html)
--   [Analysis of survey data using SPSS](teaching/spss-course.html)
--   Using RMarkdown (and now Quarto) for report writing
--   Introduction to estimation and modelling of ecological populations
+-   **Upcoming:** [Understanding and implementing spatially explicit capture-recapture analyses in R](https://members.awms.org.au/resources/Documents/AWMS2024%20Flyer_SECR%20workshop%20Nov%202024.pdf). **When:** Nov 25-29th 2024. **Where:** in Perth, Western Australia.
+-   **On demand:** [A primer on statistics using R](teaching/r-course.html)
+-   **On demand:** [Analysis of survey data using SPSS](teaching/spss-course.html)
+-   **On demand:** Using RMarkdown (and now Quarto) for report writing
+-   **On demand:** Introduction to estimation and modelling of ecological populations
 :::
 :::
 
