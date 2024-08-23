@@ -249,7 +249,7 @@ Heavily censored data
 
 ::: clients
 -   Upcoming spatial capture recapture workshop, Nov 25-29th 2024 in Perth, Western Australia. [Registration link is here.](https://members.awms.org.au/resources/Documents/AWMS2024%20Flyer_SECR%20workshop%20Nov%202024.pdf)
--   \[A primer on Statistics using R\]
+-   [A primer on statistics using R](teaching/r-course.html)
 -   [Analysis of survey data using SPSS](teaching/spss-course.html)
 -   Using RMarkdown (and now Quarto) for report writing
 -   Introduction to estimation and modelling of ecological populations
