@@ -36,6 +36,8 @@ Our services include:
 
 -   using risk-based investigative tools to assess the consequences of management actions
 
+-   designing and analysing clinical trials and observational studies for epidemiological and medical research
+
 -   designing surveillance protocols to eradicate diseases within agricultural settings
 
 -   designing surveys to estimate animal and plant abundance
@@ -166,7 +168,7 @@ Government agencies
 # Fields of investigation
 
 ::: clients
-[Ecology](case-studies.html#category=ecology) // [Fisheries](case-studies.html#category=fisheries) // [Acoustics](case-studies.html#category=acoustics) // [Engineering](case-studies.html#category=engineering) // [Medical Research](case-studies.html#category=medical-research)
+[Ecology](case-studies.html#category=ecology) // [Epidemiology](case-studies.html#category=ecology)  // [Fisheries](case-studies.html#category=ecology) // [Acoustics](case-studies.html#category=ecology) // [Engineering](case-studies.html#category=ecology) // [Medical Research](case-studies.html#category=ecology)
 :::
 :::
 
@@ -268,6 +270,6 @@ Heavily censored data
 # Software
 
 ::: clients
-R // MARK // Distance // RAMAS Metapop // Echoview
+R // SPSS // Vortex // MARK // Distance // RAMAS Metapop // Echoview
 :::
 :::

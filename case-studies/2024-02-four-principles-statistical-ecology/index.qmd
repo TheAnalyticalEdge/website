@@ -19,7 +19,7 @@ At the [International Statistical Ecology Conference](https://isec2020.multiscre
 
 This was a large collaborative project led by [Dr Gordana Popovic](https://research.unsw.edu.au/people/dr-gordana-popovic), involving 18 lead authors from five continents. The Abstract was translated in to four languages other than English - testimony to the diversity of the authorship. Twenty-eight other researchers participated in the round table discussions providing valuable insights in to their experience and feedback in to their experience working in the statistical ecology space.
 
-We agreed on four guiding principles. They were:
+We agreed upon four guiding principles. They were:
 
 1.  define a focused research question, then plan sampling and analysis to answer it;
 
