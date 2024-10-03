@@ -15,6 +15,8 @@ execute:
   freeze: true
 ---
 
+![](../../case-studies/2024-02-four-principles-statistical-ecology/four.principles.png){fig-alt="Four principals explained"}
+
 At the [International Statistical Ecology Conference](https://isec2020.multiscreensite.com/#:~:text=June%2022%2D26%2C%202020%208,%2D11am%20%26%209pm%2D12am%20GMT&text=There%20were%20two%20conference%20sessions,thousand%20messages%20in%20public%20channels) in 2020, there was a round table discussion on developing some guiding principals for ecologists to improve experimental design and to ensure their reporting is transparent and repeatable.
 
 This was a large collaborative project led by [Dr Gordana Popovic](https://research.unsw.edu.au/people/dr-gordana-popovic), involving 18 lead authors from five continents. The Abstract was translated in to four languages other than English - testimony to the diversity of the authorship. Twenty-eight other researchers participated in the round table discussions providing valuable insights in to their experience and feedback in to their experience working in the statistical ecology space.

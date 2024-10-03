@@ -32,14 +32,14 @@
     "href": "case-studies.html",
     "title": "Sharing our knowledge",
     "section": "",
-    "text": "Sharing our knowledge\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCitrus Canker\n\n\nJoanne developed risk-based trace priorities for an outbreak of citrus canker in Queensland\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRecommendations to the DCCEEW for bird and bat management plans\n\n\nExample text\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeral deer in Tasmania\n\n\nExample text\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation of Models for the AirRater App.\n\n\nRussell Thomson evaluated a number of models for predicting symptoms for users of the AirRater App\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLargo Woodrat\n\n\nThe Key Largo woodrat was used as a case study species for the development of trapping point transects\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWestern Ringtail Possum\n\n\nExample text\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExample Case Study\n\n\nSome example case study description. This appears under the title, and is also on the listings page.\n\n\n\nNicholas Tierney\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFour principles for improved statistical ecology\n\n\nWe show how ecologists can build their research following four guiding principles for impactful statistical research practices.\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Sharing our knowledge\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating the impact of the SHINE for KIDS program\n\n\nAnalysis of sample survey data across multiple time points\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)\n\n\nRussell Thomson analysed clinical trial data, allowing for missing data using multiple imputation.\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation of Models for the AirRater App\n\n\nRussell Thomson evaluated a number of models for predicting symptoms for users of the AirRater App\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFour principles for improved statistical ecology\n\n\nWe show how ecologists can build their research following four guiding principles for impactful statistical research practices.\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCitrus Canker\n\n\nDeveloping risk-based trace priorities for an outbreak of citrus canker in Queensland\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "case-studies/2024-02-four-principles-statistical-ecology/index.html",
     "href": "case-studies/2024-02-four-principles-statistical-ecology/index.html",
     "title": "Four principles for improved statistical ecology",
     "section": "",
-    "text": "At the International Statistical Ecology Conference in 2020, there was a round table discussion on developing some guiding principals for ecologists to improve experimental design and to ensure their reporting is transparent and repeatable.\nThis was a large collaborative project led by Dr Gordana Popovic, involving 18 lead authors from five continents. The Abstract was translated in to four languages other than English - testimony to the diversity of the authorship. Twenty-eight other researchers participated in the round table discussions providing valuable insights in to their experience and feedback in to their experience working in the statistical ecology space.\nWe agreed on four guiding principles. They were:\n\ndefine a focused research question, then plan sampling and analysis to answer it;\ndevelop a model that accounts for the distribution and dependence of your data;\nemphasise effect sizes to replace statistical significance with ecological relevance; and\nreport your methods and findings in sufficient detail so that your research is valid and reproducible.\n\nThe article is open access and available here.\n\n\n\n Back to top"
+    "text": "At the International Statistical Ecology Conference in 2020, there was a round table discussion on developing some guiding principals for ecologists to improve experimental design and to ensure their reporting is transparent and repeatable.\nThis was a large collaborative project led by Dr Gordana Popovic, involving 18 lead authors from five continents. The Abstract was translated in to four languages other than English - testimony to the diversity of the authorship. Twenty-eight other researchers participated in the round table discussions providing valuable insights in to their experience and feedback in to their experience working in the statistical ecology space.\nWe agreed upon four guiding principles. They were:\n\ndefine a focused research question, then plan sampling and analysis to answer it;\ndevelop a model that accounts for the distribution and dependence of your data;\nemphasise effect sizes to replace statistical significance with ecological relevance; and\nreport your methods and findings in sufficient detail so that your research is valid and reproducible.\n\nThe article is open access and available here.\n\n\n\n Back to top"
   },
   {
     "objectID": "case-studies/2024-04-18-western-ringtail-possum/index.html",
@@ -51,7 +51,7 @@
   {
     "objectID": "case-studies/2024-01-AirRater/index.html",
     "href": "case-studies/2024-01-AirRater/index.html",
-    "title": "Evaluation of Models for the AirRater App.",
+    "title": "Evaluation of Models for the AirRater App",
     "section": "",
     "text": "AirRater gathers symptoms users have entered into the app and matches these with the environmental conditions at the time. The AirRater App incorporates statistical modelling to predict future symptoms for an individual user. In this statistical consultancy, various statistical modelling techniques were compared using cross validation, to improve the performance of the AirRater App. Models compared included weighted linear discrimination, random forests and generalised linear mixed effects models. Automated PDF Reports were generated for 100 users, using R Markdown.\n\n\n\n Back to top"
   },
@@ -84,25 +84,11 @@
     "text": "Here’s some example text for this case study\n\n\n\n Back to top"
   },
   {
-    "objectID": "case-studies/2024-04-19-feral-deer-tasmania/index.html",
-    "href": "case-studies/2024-04-19-feral-deer-tasmania/index.html",
-    "title": "Feral deer in Tasmania",
-    "section": "",
-    "text": "Here’s some example text for this case study\nThere is media coverage and a published article for this article\n\n\n\n Back to top"
-  },
-  {
     "objectID": "case-studies/2024-04-15-woodrat/index.html",
     "href": "case-studies/2024-04-15-woodrat/index.html",
     "title": "Largo Woodrat",
     "section": "",
     "text": "Here’s some example text for this case study\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "case-studies/2024-04-14-example-case-study/index.html",
-    "href": "case-studies/2024-04-14-example-case-study/index.html",
-    "title": "Example Case Study",
-    "section": "",
-    "text": "Here’s some example text for this case study\nThis is a quarto document, so you can include any normal R (or Python, or Julia, or more!) code in here.\nEquations are supported\n\\[\nPr(\\theta|y) = \\frac{Pr(y|\\theta)Pr(\\theta)}{\\Pr(y)}\n\\]\nHere’s some code.\n\nlibrary(terra)\n\nterra 1.7.71\n\nraster_file &lt;- system.file(\"ex/elev.tif\", package = \"terra\") |&gt; rast()\nraster_file\n\nclass       : SpatRaster \ndimensions  : 90, 95, 1  (nrow, ncol, nlyr)\nresolution  : 0.008333333, 0.008333333  (x, y)\nextent      : 5.741667, 6.533333, 49.44167, 50.19167  (xmin, xmax, ymin, ymax)\ncoord. ref. : lon/lat WGS 84 (EPSG:4326) \nsource      : elev.tif \nname        : elevation \nmin value   :       141 \nmax value   :       547 \n\nvector_file &lt;- system.file(\"ex/lux.shp\", package = \"terra\") |&gt; vect()\nvector_file\n\n class       : SpatVector \n geometry    : polygons \n dimensions  : 12, 6  (geometries, attributes)\n extent      : 5.74414, 6.528252, 49.44781, 50.18162  (xmin, xmax, ymin, ymax)\n source      : lux.shp\n coord. ref. : lon/lat WGS 84 (EPSG:4326) \n names       :  ID_1   NAME_1  ID_2   NAME_2  AREA   POP\n type        : &lt;num&gt;    &lt;chr&gt; &lt;num&gt;    &lt;chr&gt; &lt;num&gt; &lt;int&gt;\n values      :     1 Diekirch     1 Clervaux   312 18081\n                   1 Diekirch     2 Diekirch   218 32543\n                   1 Diekirch     3  Redange   259 18664\n\n\n\nplot(raster_file)\nlines(vector_file)\n\n\n\n\n\n\n\n\n\nlibrary(brolgar)\nlibrary(naniar)\n\n\nAttaching package: 'naniar'\n\n\nThe following object is masked from 'package:terra':\n\n    shade\n\nlibrary(visdat)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.0     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ tidyr::extract() masks terra::extract()\n✖ dplyr::filter()  masks stats::filter()\n✖ dplyr::lag()     masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nvis_miss(airquality)\n\n\n\n\n\n\n\ngg_miss_var(airquality)\n\n\n\n\n\n\n\ngg_miss_upset(airquality)\n\n\n\n\n\n\n\n\n\nggplot(heights,\n       aes(x = year,\n           y = height_cm,\n           group = country)) + \n    geom_line()\n\n\n\n\n\n\n\nggplot(heights,\n       aes(x = year,\n           y = height_cm,\n           group = country)) + \n    geom_line() +\n    facet_strata(along = -height_cm)\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "design-brief.html",
@@ -145,5 +131,33 @@
     "title": "A primer on statistics using R",
     "section": "",
     "text": "This course will cover data manipulation, visualisation and analysis using R. It will be tailor made to the needs of participants. Learn about t-tests, linear or logistic regression, or other methods relevant to your research.\nWhat’s included for your $500 registration fee:\n\nonline workshop with multiple attendees (1-2 hours)\ntwo one-on-one meetings with an experienced statistical consultant\n\nPlease email Russell to register.\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-03-SHINE-for-KIDS-program/index.html",
+    "href": "case-studies/2024-03-SHINE-for-KIDS-program/index.html",
+    "title": "Evaluating the impact of the SHINE for KIDS program",
+    "section": "",
+    "text": "SHINE for KIDS supports children and young people affected by the criminal justice system. To evaluate the program, we analysed likert scale style data collected before and after the program using a mixed effects regression model.\nPlease see here for the program website.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-04-17-citrus/index.html",
+    "href": "case-studies/2024-04-17-citrus/index.html",
+    "title": "Citrus Canker",
+    "section": "",
+    "text": "The main aim of biosecurity response to an incursion is to achieve pest- or disease-free status as quickly as possible. One of the critical initial response activities involves tracing known movements (trace events) to and from an infected or infested property that could spread the pest or pathogen. During an incursion response, managers prioritize individual trace events, allocating surveillance resources to follow-up trace events in order of priority. Prioritizing trace events is difficult and typically subjective.\nJoanne developed a simulation model where several dispersal mechanisms spread a pest between areas. The simulation model was developing for citrus canker (caused by Xanthomonas citri), using scenarios from an outbreak of citrus canker that occured in Queensland in 2004. Please read here for more information.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-05-citrus/index.html",
+    "href": "case-studies/2024-05-citrus/index.html",
+    "title": "Citrus Canker",
+    "section": "",
+    "text": "The main aim of biosecurity response to an incursion is to achieve pest- or disease-free status as quickly as possible. One of the critical initial response activities involves tracing known movements (trace events) to and from an infected or infested property that could spread the pest or pathogen. During an incursion response, managers prioritize individual trace events, allocating surveillance resources to follow-up trace events in order of priority. Prioritizing trace events is difficult and typically subjective.\nJoanne developed a simulation model where several dispersal mechanisms spread a pest between areas. The simulation model was developing for citrus canker (caused by Xanthomonas citri), using scenarios from an outbreak of citrus canker that occured in Queensland in 2004. Please read here for more information.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-04-APHLID/index.html",
+    "href": "case-studies/2024-04-APHLID/index.html",
+    "title": "Apps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)",
+    "section": "",
+    "text": "We will be analysing clinical trial data for the APHLID project, to evaluate a technology-enabled model of care for the support young people with diabetes. Intention-to-treat analyses will be conducted using multiple imputation, to account for missing data.\nMore information can be found [here](https://westernsydney.edu.au/domtru/projects/trials/aphlid).\n\n\n\n Back to top"
   }
 ]

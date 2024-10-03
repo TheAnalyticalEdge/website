@@ -1,0 +1,22 @@
+---
+title: "Evaluating the impact of the SHINE for KIDS program"
+description: "Analysis of sample survey data across multiple time points"
+author:
+  - name: Russell Thomson
+    url: https://www.theanalyticaledge.com
+    # orcid: 0000-XXXX-XXXX-XXXX
+    affiliation: The Analytical Edge
+categories: [R] # self-defined categories
+# citation: 
+  # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
+image: "../../case-studies/2024-03-SHINE-for-KIDS-program/shine.png"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+execute: 
+  freeze: true
+---
+
+[![](shine.logo.png){fig-alt="SHINE for kids logo"}](https://shineforkids.org.au/)
+
+SHINE for KIDS supports children and young people affected by the criminal justice system. To evaluate the program, we analysed likert scale style data collected before and after the program using a mixed effects regression model.
+
+Please see [here](https://shineforkids.org.au/) for the program website.

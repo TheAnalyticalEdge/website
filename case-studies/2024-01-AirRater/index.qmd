@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Models for the AirRater App."
+title: "Evaluation of Models for the AirRater App"
 description: "Russell Thomson evaluated a number of models for predicting symptoms for users of the AirRater App"
 author:
   - name: Russell Thomson
@@ -14,5 +14,7 @@ draft: false # setting this to `true` will prevent your post from appearing on y
 execute: 
   freeze: true
 ---
+
+[![](AirRaterLogo.png){fig-alt="Air Rater logo"}](https://airrater.org)
 
 [AirRater](https://airrater.org/) gathers symptoms users have entered into the app and matches these with the environmental conditions at the time. The AirRater App incorporates statistical modelling to predict future symptoms for an individual user. In this statistical consultancy, various statistical modelling techniques were compared using cross validation, to improve the performance of the AirRater App. Models compared included weighted linear discrimination, random forests and generalised linear mixed effects models. Automated PDF Reports were generated for 100 users, using R Markdown.

@@ -1,0 +1,22 @@
+---
+title: "Apps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)"
+description: "Russell Thomson analysed clinical trial data, allowing for missing data using multiple imputation."
+author:
+  - name: Russell Thomson
+    url: https://www.theanalyticaledge.com
+    # orcid: 0000-XXXX-XXXX-XXXX
+    affiliation: The Analytical Edge
+categories: [R] # self-defined categories
+# citation: 
+  # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
+image: "APHLID.logo.png"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+execute: 
+  freeze: true
+---
+
+[![](APHLID.logo.png){fig-alt="APHLID logo"}](https://westernsydney.edu.au/domtru/projects/trials/aphlid)
+
+We will be analysing clinical trial data for the APHLID project, to evaluate a technology-enabled model of care for the support young people with diabetes. Intention-to-treat analyses will be conducted using multiple imputation, to account for missing data.
+
+More information can be found \[here\](<https://westernsydney.edu.au/domtru/projects/trials/aphlid>).

@@ -1,0 +1,25 @@
+---
+title: "Citrus Canker"
+description: "Developing risk-based trace priorities for an outbreak of citrus canker in Queensland"
+author:
+  - name: Joanne Potts
+    url: https://www.theanalyticaledge.com
+    # orcid: 0000-XXXX-XXXX-XXXX
+    affiliation: The Analytical Edge
+categories: [R, biosecurity, disease modelling, agriculture] # self-defined categories
+# citation: 
+  # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
+image: "../../images/citrus_canker.jpg"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+execute: 
+  freeze: true
+---
+
+
+![](../../images/citrus_canker.jpg){fig-alt="Citrus canker"}
+	
+The main aim of biosecurity response to an incursion is to achieve pest- or disease-free status as quickly as possible. One of the critical initial response activities involves tracing known movements (trace events) to and from an infected or infested property that could spread the pest or pathogen. During an incursion response, managers prioritize individual trace events, allocating surveillance resources to follow-up trace events in order of priority. Prioritizing trace events is difficult and typically subjective.
+
+Joanne developed a simulation model where several dispersal mechanisms spread a pest between areas. The simulation model was developing for citrus canker (caused by _Xanthomonas citri_), using scenarios from an outbreak of citrus canker that occured in Queensland in 2004. Please read [here](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.12065) for more information.
+    
+	
