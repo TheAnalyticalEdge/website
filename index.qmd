@@ -168,7 +168,7 @@ Government agencies
 # Fields of investigation
 
 ::: clients
-[Ecology](case-studies.html#category=ecology) // [Epidemiology](case-studies.html#category=ecology)  // [Fisheries](case-studies.html#category=ecology) // [Acoustics](case-studies.html#category=ecology) // [Engineering](case-studies.html#category=ecology) // [Medical Research](case-studies.html#category=ecology)
+[Ecology](case-studies.html#category=ecology) // [Epidemiology](case-studies.html#category=ecology) // [Fisheries](case-studies.html#category=ecology) // [Acoustics](case-studies.html#category=ecology) // [Engineering](case-studies.html#category=ecology) // [Medical Research](case-studies.html#category=ecology)
 :::
 :::
 
