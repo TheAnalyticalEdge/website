@@ -19,4 +19,4 @@ execute:
 
 We will be analysing clinical trial data for the APHLID project, to evaluate a technology-enabled model of care for the support young people with diabetes. Intention-to-treat analyses will be conducted using multiple imputation, to account for missing data.
 
-More information can be found \[here\](<https://westernsydney.edu.au/domtru/projects/trials/aphlid>).
+More information can be found [here](<https://westernsydney.edu.au/domtru/projects/trials/aphlid>).
