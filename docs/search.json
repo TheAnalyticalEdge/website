@@ -32,7 +32,7 @@
     "href": "case-studies.html",
     "title": "Sharing our knowledge",
     "section": "",
-    "text": "Sharing our knowledge\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating the impact of the SHINE for KIDS program\n\n\nAnalysis of sample survey data across multiple time points\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)\n\n\nRussell Thomson analysed clinical trial data, allowing for missing data using multiple imputation.\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation of Models for the AirRater App\n\n\nRussell Thomson evaluated a number of models for predicting symptoms for users of the AirRater App\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFour principles for improved statistical ecology\n\n\nWe show how ecologists can build their research following four guiding principles for impactful statistical research practices.\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCitrus Canker\n\n\nDeveloping risk-based trace priorities for an outbreak of citrus canker in Queensland\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+    "text": "Sharing our knowledge\n\n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalysis of survey data\n\n\nAnalysis of sample survey data across multiple time points\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nApps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)\n\n\nRussell Thomson analysed clinical trial data, allowing for missing data using multiple imputation.\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluation of Models for the AirRater App\n\n\nRussell Thomson evaluated a number of models for predicting symptoms for users of the AirRater App\n\n\n\nRussell Thomson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFour principles for improved statistical ecology\n\n\nWe show how ecologists can build their research following four guiding principles for impactful statistical research practices.\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCitrus Canker\n\n\nDeveloping risk-based trace priorities for an outbreak of citrus canker in Queensland\n\n\n\nJoanne Potts\n\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "case-studies/2024-02-four-principles-statistical-ecology/index.html",
@@ -135,9 +135,9 @@
   {
     "objectID": "case-studies/2024-03-SHINE-for-KIDS-program/index.html",
     "href": "case-studies/2024-03-SHINE-for-KIDS-program/index.html",
-    "title": "Evaluating the impact of the SHINE for KIDS program",
+    "title": "Analysis of survey data",
     "section": "",
-    "text": "SHINE for KIDS supports children and young people affected by the criminal justice system. To evaluate the program, we analysed likert scale style data collected before and after the program using a mixed effects regression model.\nPlease see here for the program website.\n\n\n\n Back to top"
+    "text": "[]\nSynopsis: Russell Thomson analysed sample survey data across multiple time points for a contract with Western Sydney University.\nMore Details: To evaluate a program’s effectiveness for researchers in the School of Education at Western Sydney University, we analysed likert scale style data collected before and after the program using a mixed effects regression model.\nQuote from Katrina Barker, WSU: “Russell has been incredibly responsive and collaborative. He dedicated time to thoroughly understand our project needs, offering a sophisticated approach to analysing the data that suited our project’s objectives and met our delivery timelines”.\n\n\n\n Back to top"
   },
   {
     "objectID": "case-studies/2024-04-17-citrus/index.html",
@@ -159,5 +159,19 @@
     "title": "Apps And Peer Support For A Healthy Future And Living Well With Diabetes (APHLID)",
     "section": "",
     "text": "We will be analysing clinical trial data for the APHLID project, to evaluate a technology-enabled model of care for the support young people with diabetes. Intention-to-treat analyses will be conducted using multiple imputation, to account for missing data.\nMore information can be found here.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-07-example-case-study-draft/index.html",
+    "href": "case-studies/2024-07-example-case-study-draft/index.html",
+    "title": "Example Case Study",
+    "section": "",
+    "text": "Here’s some example text for this case study\nThis is a quarto document, so you can include any normal R (or Python, or Julia, or more!) code in here.\nEquations are supported\n\\[\nPr(\\theta|y) = \\frac{Pr(y|\\theta)Pr(\\theta)}{\\Pr(y)}\n\\]\nHere’s some code.\n\nlibrary(terra)\n\nterra 1.7.78\n\nraster_file &lt;- system.file(\"ex/elev.tif\", package = \"terra\") |&gt; rast()\nraster_file\n\nclass       : SpatRaster \ndimensions  : 90, 95, 1  (nrow, ncol, nlyr)\nresolution  : 0.008333333, 0.008333333  (x, y)\nextent      : 5.741667, 6.533333, 49.44167, 50.19167  (xmin, xmax, ymin, ymax)\ncoord. ref. : lon/lat WGS 84 (EPSG:4326) \nsource      : elev.tif \nname        : elevation \nmin value   :       141 \nmax value   :       547 \n\nvector_file &lt;- system.file(\"ex/lux.shp\", package = \"terra\") |&gt; vect()\nvector_file\n\n class       : SpatVector \n geometry    : polygons \n dimensions  : 12, 6  (geometries, attributes)\n extent      : 5.74414, 6.528252, 49.44781, 50.18162  (xmin, xmax, ymin, ymax)\n source      : lux.shp\n coord. ref. : lon/lat WGS 84 (EPSG:4326) \n names       :  ID_1   NAME_1  ID_2   NAME_2  AREA   POP\n type        : &lt;num&gt;    &lt;chr&gt; &lt;num&gt;    &lt;chr&gt; &lt;num&gt; &lt;int&gt;\n values      :     1 Diekirch     1 Clervaux   312 18081\n                   1 Diekirch     2 Diekirch   218 32543\n                   1 Diekirch     3  Redange   259 18664\n\n\n\nplot(raster_file)\nlines(vector_file)\n\n\n\n\n\n\n\n\n\nlibrary(brolgar)\n\nRegistered S3 method overwritten by 'tsibble':\n  method               from \n  as_tibble.grouped_df dplyr\n\nlibrary(naniar)\n\n\nAttaching package: 'naniar'\n\n\nThe following object is masked from 'package:terra':\n\n    shade\n\nlibrary(visdat)\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n\n\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ tidyr::extract() masks terra::extract()\n✖ dplyr::filter()  masks stats::filter()\n✖ dplyr::lag()     masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\n\n\nvis_miss(airquality)\n\n\n\n\n\n\n\ngg_miss_var(airquality)\n\n\n\n\n\n\n\ngg_miss_upset(airquality)\n\n\n\n\n\n\n\n\n\nggplot(heights,\n       aes(x = year,\n           y = height_cm,\n           group = country)) + \n    geom_line()\n\n\n\n\n\n\n\nggplot(heights,\n       aes(x = year,\n           y = height_cm,\n           group = country)) + \n    geom_line() +\n    facet_strata(along = -height_cm)\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "case-studies/2024-06-woodrat-draft/index.html",
+    "href": "case-studies/2024-06-woodrat-draft/index.html",
+    "title": "Key Largo Woodrat",
+    "section": "",
+    "text": "Here’s some example text for this case study\n\n\n\n Back to top"
   }
 ]
