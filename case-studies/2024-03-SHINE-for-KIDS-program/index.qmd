@@ -1,5 +1,5 @@
 ---
-title: "Analysis of survey data"
+title: "Mixed Effect Analysis of Sample Data"
 description: "Analysis of sample survey data across multiple time points"
 author:
   - name: Russell Thomson
@@ -9,13 +9,13 @@ author:
 categories: [R] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../case-studies/2024-03-SHINE-for-KIDS-program/control_intervention.png"
+image: "../../case-studies/2024-03-SHINE-for-KIDS-program/DivergingBar.jpg"
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 execute: 
   freeze: true
 ---
 
-[![](control_intervention.png)]
+![](DivergingBar.jpg)
 
 [Synopsis:]{.underline} Russell Thomson analysed sample survey data across multiple time points for a contract with Western Sydney University.
 
