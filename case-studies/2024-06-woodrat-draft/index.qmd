@@ -1,18 +1,20 @@
 ---
-title: "Key Largo Woodrat"
-description: "The Key Largo woodrat was used as a case study species for the development of trapping point transects"
+title: "Cholesterol and cardiovascular disease"
+description: "The long-term effects of child, adolescent, and young adult cholesterol levels on future cardiovascular disease."
 author:
-  - name: Joanne Potts
+  - name: Russell Thomson
     url: https://www.theanalyticaledge.com
     # orcid: 0000-XXXX-XXXX-XXXX
     affiliation: The Analytical Edge
-categories: [R, ecology] # self-defined categories
+categories: [R, medicine] # self-defined categories
 # citation: 
   # url: https://theanalyticaledge.com/case-studies/2024-04-14-example-case-study/ 
-image: "../../images/woodrat.jpg"
-draft: true # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+image: "../../images/cardiovascular.png"
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 execute: 
   freeze: true
 ---
 
-Here's some example text for this case study
+[![](../../images/cardiovascular.png){fig-alt="density triangle"}](https://www.nature.com/articles/s41586-024-07993-x)
+
+Russell supplied statistical consulting expertise for the epidemiologist; A/Prof Costan Magnussen and his team at the Baker Heart and Diabetes Institute. Costan’s research questions are around understanding the early life determinants of adult cardiovascular and metabolic diseases. He often employs the Young Finns cohort dataset to answer these questions. Russell’s consulting made a difference in publishing in (Nature) \[https://www.nature.com/articles/s41586-024-07993-x\], when he provided statistical insights, such as a method to implement multiple imputation and obtain relative risks with a Bayesian model.
